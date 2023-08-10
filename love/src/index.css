@@ -1,0 +1,16 @@
+
+#root {
+  text-align: center;
+  padding: 50px;
+  background-image: url('./images/WhatsApp\ Image\ 2023-08-10\ at\ 20.46.60.jpg'); /* Adjust the path if needed */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
