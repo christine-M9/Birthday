@@ -31,7 +31,7 @@ const BirthdayMessage = ({ husbandName, yourName }) => (
       From the moment we met, my world has been brighter and more beautiful. Your love and presence have added meaning to every moment, and today, on your special day, I want to celebrate you like never before.
       You are my rock, my confidant, and my greatest blessing. Your kindness, wisdom, and love inspire me to become a better person every day.
       May this birthday be filled with joy, laughter, and unforgettable moments. As we journey through life together, know that my love for you grows stronger with each passing day.
-      Here's to another year of wonderful memories, shared dreams, and endless love. Happy birthday, my love!
+      Here's to another year of wonderful memories, shared dreams, and endless love. Happy birthday, my love! I love you Babey.
       With all my heart,
       {yourName}
     </MessageText>
