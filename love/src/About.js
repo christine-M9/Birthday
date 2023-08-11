@@ -25,7 +25,7 @@ const AboutText = styled.p`
 
 const About = () => (
   <AboutContainer>
-    <AboutTitle>About</AboutTitle>
+    <AboutTitle>ABOUT</AboutTitle>
     <AboutText>
       This is a special app to send a heartfelt birthday message to my beloved husband. Expressing my love and making his day even more special!
     </AboutText>
